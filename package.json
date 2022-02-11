@@ -1,0 +1,14 @@
+{
+  "name": "cypress-data-grid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thitoribeiro/cypress-data-grid.git",
+  "author": "thitoribeiro <thito.ribeiro@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  },
+  "dependencies": {
+    "cypress-ag-grid": "^1.2.0"
+  }
+}
