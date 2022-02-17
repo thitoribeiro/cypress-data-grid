@@ -1,1 +1,3 @@
-{}
+{
+    "baseUrl": "https://data-grid-qa-challenge-prod.herokuapp.com/" 
+}
