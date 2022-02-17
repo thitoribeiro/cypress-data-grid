@@ -1,0 +1,359 @@
+[
+  {
+    "state": "Alabama",
+    "abbreviation": "AL",
+    "population": 4921532,
+    "size": 52420.07,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/45px-Flag_of_Alabama.svg.png"
+  },
+  {
+    "state": "Alaska",
+    "abbreviation": "AK",
+    "population": 731158,
+    "size": 665384.04,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/43px-Flag_of_Alaska.svg.png"
+  },
+  {
+    "state": "Arizona",
+    "abbreviation": "AZ",
+    "population": 7421401,
+    "size": 113990.3,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/45px-Flag_of_Arizona.svg.png"
+  },
+  {
+    "state": "Arkansas",
+    "abbreviation": "AR",
+    "population": 3030522,
+    "size": 53178.55,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/45px-Flag_of_Arkansas.svg.png"
+  },
+  {
+    "state": "California",
+    "abbreviation": "CA",
+    "population": 39368078,
+    "size": 163694.74,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png"
+  },
+  {
+    "state": "Colorado",
+    "abbreviation": "CO",
+    "population": 5807719,
+    "size": 104093.67,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/45px-Flag_of_Colorado.svg.png"
+  },
+  {
+    "state": "Connecticut",
+    "abbreviation": "CT",
+    "population": 3557006,
+    "size": 5543.41,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/39px-Flag_of_Connecticut.svg.png"
+  },
+  {
+    "state": "Delaware",
+    "abbreviation": "DE",
+    "population": 986809,
+    "size": 2488.72,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/45px-Flag_of_Delaware.svg.png"
+  },
+  {
+    "state": "District of Columbia",
+    "abbreviation": "DC",
+    "population": 712816,
+    "size": 68.34,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_District_of_Columbia.svg/46px-Flag_of_the_District_of_Columbia.svg.png"
+  },
+  {
+    "state": "Florida",
+    "abbreviation": "FL",
+    "population": 21733312,
+    "size": 65757.7,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/45px-Flag_of_Florida.svg.png"
+  },
+  {
+    "state": "Georgia",
+    "abbreviation": "GA",
+    "population": 10710017,
+    "size": 59425.15,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/46px-Flag_of_Georgia_%28U.S._state%29.svg.png"
+  },
+  {
+    "state": "Hawaii",
+    "abbreviation": "HI",
+    "population": 1407006,
+    "size": 10931.72,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/46px-Flag_of_Hawaii.svg.png"
+  },
+  {
+    "state": "Idaho",
+    "abbreviation": "ID",
+    "population": 1826913,
+    "size": 83568.95,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/38px-Flag_of_Idaho.svg.png"
+  },
+  {
+    "state": "Illinois",
+    "abbreviation": "IL",
+    "population": 12587530,
+    "size": 57913.55,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/46px-Flag_of_Illinois.svg.png"
+  },
+  {
+    "state": "Indiana",
+    "abbreviation": "IN",
+    "population": 6754953,
+    "size": 36419.55,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/45px-Flag_of_Indiana.svg.png"
+  },
+  {
+    "state": "Iowa",
+    "abbreviation": "IA",
+    "population": 3163561,
+    "size": 56272.81,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/45px-Flag_of_Iowa.svg.png"
+  },
+  {
+    "state": "Kansas",
+    "abbreviation": "KS",
+    "population": 2913805,
+    "size": 82278.36,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/46px-Flag_of_Kansas.svg.png"
+  },
+  {
+    "state": "Kentucky",
+    "abbreviation": "KY",
+    "population": 4477251,
+    "size": 40407.8,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/46px-Flag_of_Kentucky.svg.png"
+  },
+  {
+    "state": "Louisiana",
+    "abbreviation": "LA",
+    "population": 4645318,
+    "size": 52378.13,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/46px-Flag_of_Louisiana.svg.png"
+  },
+  {
+    "state": "Maine",
+    "abbreviation": "ME",
+    "population": 1350141,
+    "size": 35379.74,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/38px-Flag_of_Maine.svg.png"
+  },
+  {
+    "state": "Maryland",
+    "abbreviation": "MD",
+    "population": 6055802,
+    "size": 12405.93,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/45px-Flag_of_Maryland.svg.png"
+  },
+  {
+    "state": "Massachusetts",
+    "abbreviation": "MA",
+    "population": 6893574,
+    "size": 10554.39,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/46px-Flag_of_Massachusetts.svg.png"
+  },
+  {
+    "state": "Michigan",
+    "abbreviation": "MI",
+    "population": 9966555,
+    "size": 96713.51,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/45px-Flag_of_Michigan.svg.png"
+  },
+  {
+    "state": "Minnesota",
+    "abbreviation": "MN",
+    "population": 5657342,
+    "size": 86935.83,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/46px-Flag_of_Minnesota.svg.png"
+  },
+  {
+    "state": "Mississippi",
+    "abbreviation": "MS",
+    "population": 2966786,
+    "size": 48431.78,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/46px-Flag_of_Mississippi.svg.png"
+  },
+  {
+    "state": "Missouri",
+    "abbreviation": "MO",
+    "population": 6151548,
+    "size": 69706.99,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/46px-Flag_of_Missouri.svg.png"
+  },
+  {
+    "state": "Montana",
+    "abbreviation": "MT",
+    "population": 1080577,
+    "size": 147039.71,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/45px-Flag_of_Montana.svg.png"
+  },
+  {
+    "state": "Nebraska",
+    "abbreviation": "NE",
+    "population": 1937552,
+    "size": 77347.81,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/46px-Flag_of_Nebraska.svg.png"
+  },
+  {
+    "state": "Nevada",
+    "abbreviation": "NV",
+    "population": 3138259,
+    "size": 110571.82,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/45px-Flag_of_Nevada.svg.png"
+  },
+  {
+    "state": "New Hampshire",
+    "abbreviation": "NH",
+    "population": 1366275,
+    "size": 9349.16,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/45px-Flag_of_New_Hampshire.svg.png"
+  },
+  {
+    "state": "New Jersey",
+    "abbreviation": "NJ",
+    "population": 8882371,
+    "size": 8722.58,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/46px-Flag_of_New_Jersey.svg.png"
+  },
+  {
+    "state": "New Mexico",
+    "abbreviation": "NM",
+    "population": 2106319,
+    "size": 121590.3,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/45px-Flag_of_New_Mexico.svg.png"
+  },
+  {
+    "state": "New York",
+    "abbreviation": "NY",
+    "population": 19336776,
+    "size": 54554.98,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/46px-Flag_of_New_York.svg.png"
+  },
+  {
+    "state": "North Carolina",
+    "abbreviation": "NC",
+    "population": 10600823,
+    "size": 53819.16,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/45px-Flag_of_North_Carolina.svg.png"
+  },
+  {
+    "state": "North Dakota",
+    "abbreviation": "ND",
+    "population": 765309,
+    "size": 70698.32,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/41px-Flag_of_North_Dakota.svg.png"
+  },
+  {
+    "state": "Ohio",
+    "abbreviation": "OH",
+    "population": 11693217,
+    "size": 44825.58,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/50px-Flag_of_Ohio.svg.png"
+  },
+  {
+    "state": "Oklahoma",
+    "abbreviation": "OK",
+    "population": 3980783,
+    "size": 69898.87,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/45px-Flag_of_Oklahoma.svg.png"
+  },
+  {
+    "state": "Oregon",
+    "abbreviation": "OR",
+    "population": 4241507,
+    "size": 98378.54,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/46px-Flag_of_Oregon.svg.png"
+  },
+  {
+    "state": "Pennsylvania",
+    "abbreviation": "PA",
+    "population": 12783254,
+    "size": 46054.34,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png"
+  },
+  {
+    "state": "Rhode Island",
+    "abbreviation": "RI",
+    "population": 1057125,
+    "size": 1544.89,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/39px-Flag_of_Rhode_Island.svg.png"
+  },
+  {
+    "state": "South Carolina",
+    "abbreviation": "SC",
+    "population": 5218040,
+    "size": 32020.49,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/45px-Flag_of_South_Carolina.svg.png"
+  },
+  {
+    "state": "South Dakota",
+    "abbreviation": "SD",
+    "population": 892717,
+    "size": 77115.68,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/46px-Flag_of_South_Dakota.svg.png"
+  },
+  {
+    "state": "Tennessee",
+    "abbreviation": "TN",
+    "population": 6886834,
+    "size": 42144.25,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/46px-Flag_of_Tennessee.svg.png"
+  },
+  {
+    "state": "Texas",
+    "abbreviation": "TX",
+    "population": 29360759,
+    "size": 268596.46,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/45px-Flag_of_Texas.svg.png"
+  },
+  {
+    "state": "Utah",
+    "abbreviation": "UT",
+    "population": 3249879,
+    "size": 84896.88,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/46px-Flag_of_Utah.svg.png"
+  },
+  {
+    "state": "Vermont",
+    "abbreviation": "VT",
+    "population": 623347,
+    "size": 9616.36,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/46px-Flag_of_Vermont.svg.png"
+  },
+  {
+    "state": "Virginia",
+    "abbreviation": "VA",
+    "population": 8590563,
+    "size": 42774.93,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/46px-Flag_of_Washington.svg.png"
+  },
+  {
+    "state": "Washington",
+    "abbreviation": "WA",
+    "population": 7693612,
+    "size": 71297.95,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/46px-Flag_of_Washington.svg.png"
+  },
+  {
+    "state": "West Virginia",
+    "abbreviation": "WV",
+    "population": 1784787,
+    "size": 24230.04,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/46px-Flag_of_West_Virginia.svg.png"
+  },
+  {
+    "state": "Wisconsin",
+    "abbreviation": "WI",
+    "population": 5832655,
+    "size": 65496.38,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/45px-Flag_of_Wisconsin.svg.png"
+  },
+  {
+    "state": "Wyoming",
+    "abbreviation": "WY",
+    "population": 582328,
+    "size": 97813.01,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/43px-Flag_of_Wyoming.svg.png"
+  }
+]
