@@ -1,3 +1,5 @@
 {
-    "baseUrl": "https://data-grid-qa-challenge-prod.herokuapp.com/" 
+    "baseUrl": "https://data-grid-qa-challenge-prod.herokuapp.com/", 
+    "video": false,
+    "projectId": "2mvx9q"
 }
