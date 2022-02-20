@@ -23,6 +23,9 @@
 
 5-Click in "Console output" (Saída do console);
 
+6-If in step 3 you chose the option "cy:run-dashboard:dev" or
+"cy:run-dashboard:prod", use this link to access the Cypress Dashboard Cloud "https://dashboard.cypress.io/invitation/f72a3230-3329-46b4-be3f-bd1893815765" or access the link sent for your email address;
+
 
 #Running Cypress tests at the terminal
 
