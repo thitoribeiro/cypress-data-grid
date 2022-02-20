@@ -5,6 +5,20 @@
   "repository": "git@github.com:thitoribeiro/cypress-data-grid.git",
   "author": "thitoribeiro <thito.ribeiro@hotmail.com>",
   "license": "MIT",
+    "scripts": {
+    "cy:dev": "cypress run --config baseUrl=https://data-grid-qa-challenge-dev.herokuapp.com/ --env environment=dev",
+    "cy:prod": "cypress run --config baseUrl=https://data-grid-qa-challenge-prod.herokuapp.com/ --env environment=prod",
+    "cy:open:dev": "cypress open --config baseUrl=https://data-grid-qa-challenge-dev.herokuapp.com/ --env environment=dev",
+    "cy:open:prod": "cypress open --config baseUrl=https://data-grid-qa-challenge-prod.herokuapp.com/ --env environment=prod",
+    "cy:run:chrome:dev": "cypress run chrome --config baseUrl=https://data-grid-qa-challenge-dev.herokuapp.com/ --env environment=dev",
+    "cy:run:chrome:prod": "cypress run chrome --config baseUrl=https://data-grid-qa-challenge-prod.herokuapp.com/ --env environment=prod",
+    "cy:run:firefox:dev": "cypress run firefox --config baseUrl=https://data-grid-qa-challenge-dev.herokuapp.com/ --env environment=dev",
+    "cy:run:firefox:prod": "cypress run firefox --config baseUrl=https://data-grid-qa-challenge-prod.herokuapp.com/ --env environment=prod",
+    "cy:run:electron:dev": "cypress run electron --config baseUrl=https://data-grid-qa-challenge-dev.herokuapp.com/ --env environment=dev",
+    "cy:run:electron:prod": "cypress run electron --config baseUrl=https://data-grid-qa-challenge-prod.herokuapp.com/ --env environment=prod",
+    "cy:run-dashboard:dev": "cypress run --config baseUrl=https://data-grid-qa-challenge-dev.herokuapp.com/ --env environment=dev --record --key 48b5affa-75ac-4c55-9677-67b7607a1150",
+    "cy:run-dashboard:prod": "cypress run --config baseUrl=https://data-grid-qa-challenge-prod.herokuapp.com/ --env environment=prod --record --key 48b5affa-75ac-4c55-9677-67b7607a1150"
+  },
   "devDependencies": {
     "cypress": "^9.4.1"
   },
